@@ -133,7 +133,7 @@ mostrar_estadisticas("Atzimba")
 
 # SOLICITAR DATOS
 nombre = input("\n Introduce tu nombre: ")
-apellido = input("\n Introduc(e tu apellido: ")
+apellido = input("\n Introduce tu apellido: ")
 numero = input("\n Introduce tu numero favorito: ")
 
 def generar_todas_las_opciones(nombre, apellido, numero):
